@@ -1,4 +1,4 @@
-# multimodal BEV thesis project
+# Multimodal BEV thesis project
 
 
 The experiments are conduct on Alvis platform.
